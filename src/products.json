@@ -1,0 +1,189 @@
+[
+    {
+        "id": 0,
+        "title": "Producto A1",
+        "description": "Descripción 1",
+        "code": "aaabbb",
+        "price": 11,
+        "status": true,
+        "stock": 10,
+        "category": "Categoría 1",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 1,
+        "title": "Producto A2",
+        "description": "Descripción 2",
+        "code": "aaaccc",
+        "price": 22,
+        "status": true,
+        "stock": 20,
+        "category": "Categoría 2",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 2,
+        "title": "Producto A3",
+        "description": "Descripción 3",
+        "code": "aaaddd",
+        "price": 33,
+        "status": true,
+        "stock": 30,
+        "category": "Categoría 3",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 3,
+        "title": "Producto A4",
+        "description": "Descripción 4",
+        "code": "aaaeee",
+        "price": 44,
+        "status": true,
+        "stock": 40,
+        "category": "Categoría 1",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 4,
+        "title": "Producto A5",
+        "description": "Descripción 5",
+        "code": "aaafff",
+        "price": 55,
+        "status": true,
+        "stock": 50,
+        "category": "Categoría 2",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 5,
+        "title": "Producto A6",
+        "description": "Descripción 6",
+        "code": "aaaggg",
+        "price": 66,
+        "status": true,
+        "stock": 60,
+        "category": "Categoría 3",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 6,
+        "title": "Producto A7",
+        "description": "Descripción 7",
+        "code": "aaahhh",
+        "price": 77,
+        "status": true,
+        "stock": 70,
+        "category": "Categoría 1",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 7,
+        "title": "Producto A8",
+        "description": "Descripción 8",
+        "code": "aaaiii",
+        "price": 88,
+        "status": true,
+        "stock": 80,
+        "category": "Categoría 2",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 8,
+        "title": "Producto A9",
+        "description": "Descripción 9",
+        "code": "aaajjj",
+        "price": 99,
+        "status": true,
+        "stock": 90,
+        "category": "Categoría 3",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 9,
+        "title": "Producto A10",
+        "description": "Descripción 10",
+        "code": "aaakkk",
+        "price": 11,
+        "status": true,
+        "stock": 100,
+        "category": "Categoría 1",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 10,
+        "title": "Producto A11",
+        "description": "Descripción 11",
+        "code": "aaalll",
+        "price": 22,
+        "status": true,
+        "stock": 110,
+        "category": "Categoría 2",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 11,
+        "title": "Producto A12",
+        "description": "Descripción 12",
+        "code": "aaammm",
+        "price": 33,
+        "status": true,
+        "stock": 120,
+        "category": "Categoría 3",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 12,
+        "title": "Producto A13",
+        "description": "Descripción 13",
+        "code": "aaannn",
+        "price": 44,
+        "status": true,
+        "stock": 130,
+        "category": "Categoría 1",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 13,
+        "title": "Producto A14",
+        "description": "Descripción 14",
+        "code": "aaaooo",
+        "price": 55,
+        "status": true,
+        "stock": 140,
+        "category": "Categoría 2",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 14,
+        "title": "Producto A15",
+        "description": "Descripción 15",
+        "code": "aaappp",
+        "price": 66,
+        "status": true,
+        "stock": 150,
+        "category": "Categoría 3",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 15,
+        "title": "Producto A16",
+        "description": "Descripción 16",
+        "code": "aaaqqq",
+        "price": 77,
+        "status": true,
+        "stock": 160,
+        "category": "Categoría 1",
+        "thumbnail": "No hay imagen thumbnail"
+    },
+    {
+        "id": 16,
+        "title": "Producto A17",
+        "description": "Descripción 17",
+        "code": "aaarrr",
+        "price": 88,
+        "status": true,
+        "stock": 170,
+        "category": "Categoría 2",
+        "thumbnail": "No hay imagen thumbnail"
+    }
+]

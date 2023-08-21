@@ -1,19 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WebSocket</title>
-</head>
-<body>
-  <form id="productoForm" action="/agregarProducto" method="POST">
-     
-     <input type="text" name="nombre" placeholder="Nombre del producto" required>
-     <input type="number" name="precio" placeholder="Precio del producto" required>
-     <button type="submit">Agregar producto</button>
-   </form>
-  <script src="/socket.io/socket.io.js"></script>
-  <script src="/scripts.js"></script>
-</body>
-</html>
+<h1>Vista de productos en tiempo real</h1>
+
+<div>
+
+    <input type="text" , id="title" , placeholder="Title" required>
+    <input type="text" , id="description" , placeholder="Description" required>
+    <input type="text" , id="code" , placeholder="Code" required>
+    <input type="number" , id="price" , placeholder="Price" required>
+    <input type="number" , id="stock" , placeholder="Stock" required>
+    <input type="text" , id="category" , placeholder="Category" required>
+
+    <button type="submit" id="boton">Agregar</button>
+
+</div>
+
+<div id="listaproducts">
+</div>
+
+<script src="/scripts.js"></script>
+<script src="/socket.io/socket.io.js"></script>
 
